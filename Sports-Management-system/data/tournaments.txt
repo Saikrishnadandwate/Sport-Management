@@ -1,0 +1,2 @@
+TRN-01|Inter-College Cricket Cup|Cricket|Round Robin|T101,T102
+TRN-02|State Football Championship|Football|League|T103,T104

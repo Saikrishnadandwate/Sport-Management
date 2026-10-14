@@ -1,0 +1,11 @@
+P104|Virat Rao|25|Cricket|T102
+P103|Ishan Kishan|23|Cricket|T101
+P106|Surya Kumar|24|Cricket|T102
+P105|Hardik Patel|26|Cricket|T102
+P111|Lucas Perez|20|Football|UNASSIGNED
+P110|Kevin De Bruyne|24|Football|T104
+P102|Rohan Verma|24|Cricket|T101
+P101|Aarav Sharma|22|Cricket|T101
+P108|David Miller|23|Football|T103
+P107|Marcus Silva|21|Football|T103
+P109|Leo Gomez|22|Football|T104

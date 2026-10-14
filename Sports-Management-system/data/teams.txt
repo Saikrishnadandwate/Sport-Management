@@ -1,0 +1,4 @@
+T103|Strikers FC|Football|Coach Carlos|P107,P108
+T104|Blaze United|Football|Coach Steve|P109,P110
+T101|Thunderbolts|Cricket|Coach Rahul|P101,P102,P103
+T102|Golden Eagles|Cricket|Coach Vikram|P104,P105,P106
